@@ -1,1 +1,2 @@
-# CPE032_BigDataEngineering
+Personal archive of outputs in CPE032 - Big Data Engineering
+Not meant for distribution.
